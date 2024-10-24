@@ -1,0 +1,12 @@
+﻿  tiger_hash.cpp
+F:\programming\visual_studio\tiger_hash\tiger_hash\tigerhash.h(44,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  (compiling source file 'tiger_hash.cpp')
+      F:\programming\visual_studio\tiger_hash\tiger_hash\tigerhash.h(44,13):
+      consider using '%zd' in the format string
+  
+F:\programming\visual_studio\tiger_hash\tiger_hash\tigerhash.h(181,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  (compiling source file 'tiger_hash.cpp')
+      F:\programming\visual_studio\tiger_hash\tiger_hash\tigerhash.h(181,13):
+      consider using '%zd' in the format string
+  
+  tiger_hash.vcxproj -> F:\programming\visual_studio\tiger_hash\x64\Debug\tiger_hash.exe
